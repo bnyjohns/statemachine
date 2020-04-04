@@ -6,7 +6,7 @@
 ### How do I get set up? ###
 
 * CMake needs to be installed prior
-* git clone https://bnyjohns@bitbucket.org/bnyjohns/statemachine.git
+* git clone git@github.com:bnyjohns/statemachine.git
 * mkdir build
 * cd build
 * cmake -G "Visual Studio 16 2019" ../statemachine (for Windows)
